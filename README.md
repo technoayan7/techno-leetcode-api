@@ -61,5 +61,5 @@ During development, it's recommended to utilize the API locally. To do so, follo
 
 ## Author ✒️
 
-- [@technoArghya](https://www.github.com/technoayan7)
+- [@technoayan7](https://www.github.com/technoayan7)
 
